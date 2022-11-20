@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.12.18)  19 NOV 2022 19:47
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.12.18)  21 NOV 2022 01:54
  restricted system commands enabled.
 **poster.tex
 (./poster.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.048 seconds
+luaotfload | main : initialization completed in 0.063 seconds
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -2622,14 +2622,25 @@ Package luatex.def Info: ./figures/Fotis7.png  used on input line 44.
 LaTeX Font Warning: Font shape `TU/txss/m/sc' undefined
 (Font)              using `TU/txss/m/n' instead on input line 67.
 
-) (./tex/HExtended_v6.tex)
-<./figures/nasa.jpg, id=16, 1284.8pt x 722.7pt>
-File: ./figures/nasa.jpg Graphic file (type jpg)
-<use ./figures/nasa.jpg>
-Package luatex.def Info: ./figures/nasa.jpg  used on input line 8.
-(luatex.def)             Requested size: 275.11124pt x 154.7489pt.
+) (./tex/TopQuark_Tevatron.tex
+<./figures/TopQuark2BW.jpg, id=16, 2569.6pt x 1713.40125pt>
+File: ./figures/TopQuark2BW.jpg Graphic file (type jpg)
+<use ./figures/TopQuark2BW.jpg>
+Package luatex.def Info: ./figures/TopQuark2BW.jpg  used on input line 19.
+(luatex.def)             Requested size: 130.44244pt x 86.95615pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 17--20
+ [] 
+ []
+
+)
+<./figures/phd_title.png, id=17, 193.72375pt x 41.15375pt>
+File: ./figures/phd_title.png Graphic file (type png)
+<use ./figures/phd_title.png>
+Package luatex.def Info: ./figures/phd_title.png  used on input line 8.
+(luatex.def)             Requested size: 275.11124pt x 58.44437pt.
  (./tex/AdsRestaurants.tex
-<./figures/restaurants.png, id=17, 218.781pt x 47.085pt>
+<./figures/restaurants.png, id=18, 218.781pt x 47.085pt>
 File: ./figures/restaurants.png Graphic file (type png)
 <use ./figures/restaurants.png>
 Package luatex.def Info: ./figures/restaurants.png  used on input line 8.
@@ -2637,44 +2648,159 @@ Package luatex.def Info: ./figures/restaurants.png  used on input line 8.
 ) (./tex/HiggsBoson_LHC.tex
 Missing character: There is no − (U+2212) in font txss!
 Missing character: There is no − (U+2212) in font txss!
-<./figures/HiggsBosonDiscoveryBW.png, id=18, 2055.68pt x 1074.0125pt>
+<./figures/HiggsBosonDiscoveryBW.png, id=19, 2055.68pt x 1074.0125pt>
 File: ./figures/HiggsBosonDiscoveryBW.png Graphic file (type png)
 <use ./figures/HiggsBosonDiscoveryBW.png>
 Package luatex.def Info: ./figures/HiggsBosonDiscoveryBW.png  used on input line
  27.
-(luatex.def)             Requested size: 180.46036pt x 94.28067pt.
+(luatex.def)             Requested size: 163.78984pt x 85.56221pt.
 
 Overfull \hbox (5.0pt too wide) in paragraph at lines 26--28
  [] 
  []
 
 )
-<./figures/Cyprus-in-your-heart.png, id=19, 474.573pt x 335.8146pt>
-File: ./figures/Cyprus-in-your-heart.png Graphic file (type png)
-<use ./figures/Cyprus-in-your-heart.png>
-Package luatex.def Info: ./figures/Cyprus-in-your-heart.png  used on input line 
-22.
-(luatex.def)             Requested size: 125.04478pt x 88.48315pt.
-<./figures/thkata.png, id=20, 98.331pt x 62.196pt>
-File: ./figures/thkata.png Graphic file (type png)
-<use ./figures/thkata.png>
-Package luatex.def Info: ./figures/thkata.png  used on input line 24.
-(luatex.def)             Requested size: 125.04478pt x 79.0943pt.
-<./figures/car.png, id=21, 92.199pt x 73.146pt>
+<./figures/car.png, id=20, 92.199pt x 73.146pt>
 File: ./figures/car.png Graphic file (type png)
 <use ./figures/car.png>
 Package luatex.def Info: ./figures/car.png  used on input line 26.
-(luatex.def)             Requested size: 125.04478pt x 99.20712pt.
- (./tex/MultiMuons1_CDF.tex) (./tex/MultiMuons2_CDF.tex))
+(luatex.def)             Requested size: 100.03583pt x 79.36592pt.
+<./figures/thkata.png, id=21, 98.331pt x 62.196pt>
+File: ./figures/thkata.png Graphic file (type png)
+<use ./figures/thkata.png>
+Package luatex.def Info: ./figures/thkata.png  used on input line 28.
+(luatex.def)             Requested size: 100.03583pt x 63.27582pt.
+<./figures/Cyprus-in-your-heart.png, id=22, 474.573pt x 335.8146pt>
+File: ./figures/Cyprus-in-your-heart.png Graphic file (type png)
+<use ./figures/Cyprus-in-your-heart.png>
+Package luatex.def Info: ./figures/Cyprus-in-your-heart.png  used on input line 
+30.
+(luatex.def)             Requested size: 100.03583pt x 70.78447pt.
+ (./tex/FermilabToday_v3.tex
+<./figures/Fotios-MinJeongKimBW.jpg, id=23, 468.75125pt x 161.60374pt>
+File: ./figures/Fotios-MinJeongKimBW.jpg Graphic file (type jpg)
+<use ./figures/Fotios-MinJeongKimBW.jpg>
+Package luatex.def Info: ./figures/Fotios-MinJeongKimBW.jpg  used on input line 
+27.
+(luatex.def)             Requested size: 143.65472pt x 49.52455pt.
+) (./tex/MultiMuons1_CDF.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 of multi-muon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 events pro-duced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 at the Fer-mi-lab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 Teva-tron col-lider
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 and recorded by
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 te-grated lu-mi-nos-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 muon can-di-dates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 pro-duc-tion cross
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 cess-fully mod-eled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 by known QCD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 clude heavy fla-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 vor pro-duc-tion.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 In con-trast, we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 un-der-stand-ing of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 event re-con-struc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 matic prop-er-ties
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 of these events
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 are pre-sented in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 long-standing in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+\TU/txss/m/sc/8.71 con-sis-ten-cies re-
+ []
+
+) (./tex/IPPOG_v3.tex
+<./figures/Fotis6-narrow.png, id=24, 1920.17375pt x 2038.61626pt>
+File: ./figures/Fotis6-narrow.png Graphic file (type png)
+<use ./figures/Fotis6-narrow.png>
+Package luatex.def Info: ./figures/Fotis6-narrow.png  used on input line 22.
+(luatex.def)             Requested size: 128.65135pt x 136.55858pt.
+) (./tex/MultiMuons2_CDF.tex) (./tex/HPlus2tb.tex)
+(./tex/HPlus2HW.tex))
 File: ./figures/NewspaperTitle.png Graphic file (type png)
 <use ./figures/NewspaperTitle.png>
 Package luatex.def Info: ./figures/NewspaperTitle.png  used on input line 85.
 (luatex.def)             Requested size: 456.32678pt x 87.17488pt.
  [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-<./figures/NewspaperTitle.png><./figures/Fotis7.png><./figures/nasa.jpg><./figur
-es/restaurants.png><./figures/HiggsBosonDiscoveryBW.png><./figures/Cyprus-in-you
-r-heart.png><./figures/thkata.png><./figures/car.png>]
+<./figures/NewspaperTitle.png><./figures/Fotis7.png><./figures/TopQuark2BW.jpg><
+./figures/phd_title.png><./figures/restaurants.png><./figures/HiggsBosonDiscover
+yBW.png><./figures/car.png><./figures/thkata.png><./figures/Cyprus-in-your-heart
+.png><./figures/Fotios-MinJeongKimBW.jpg><./figures/Fotis6-narrow.png>]
 \tf@nav=\write9
 
 \openout9 = poster.nav
@@ -2702,21 +2828,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 49042 strings out of 494291
- 156272,1648299 words of node,token memory allocated
- 4451 words of node memory still in use:
-   53 hlist, 7 vlist, 6 rule, 14 disc, 12 local_par, 4 math, 142 glue, 31 kern, 
-26 penalty, 187 glyph, 118 attribute, 67 glue_spec, 118 attribute_list, 3 write,
- 40 pdf_literal, 14 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore n
+ 49122 strings out of 494291
+ 156267,1648299 words of node,token memory allocated
+ 3580 words of node memory still in use:
+   55 hlist, 7 vlist, 7 rule, 11 disc, 12 local_par, 2 math, 110 glue, 22 kern, 
+27 penalty, 104 glyph, 119 attribute, 67 glue_spec, 119 attribute_list, 3 write,
+ 40 pdf_literal, 12 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore n
 odes
-   avail lists: 1:4,2:2536,3:750,4:131,5:685,6:43,7:13594,8:28,9:608,10:22,11:12
-07
- 51195 multiletter control sequences out of 65536+600000
- 150 fonts using 14566519 bytes
+   avail lists: 1:3,2:4242,3:1291,4:168,5:763,6:63,7:15394,8:29,9:1037,10:22,11:
+1207
+ 51219 multiletter control sequences out of 65536+600000
+ 151 fonts using 14698607 bytes
  72i,21n,108p,1035b,1377s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.o
-tf>{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2019/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc}</usr/local/texlive/2019
+tf>{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc}{/usr/lo
+cal/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019
 /texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></usr/local/texlive/20
 19/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>{/usr/local/texlive
 /2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<</Users/sotiroulacon
@@ -2727,9 +2853,9 @@ gular.otf></usr/local/texlive/2019/texmf-dist/fonts/type1/public/kerkis/Kerkis-I
 talic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm12
 00.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on poster.pdf (1 page, 2752758 bytes).
+Output written on poster.pdf (1 page, 6727692 bytes).
 
-PDF statistics: 100 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 131072)
  21 words of extra memory for PDF output out of 10000 (max. 100000000)
