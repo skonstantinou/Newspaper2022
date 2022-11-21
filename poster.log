@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.12.18)  21 NOV 2022 12:22
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.12.18)  21 NOV 2022 13:04
  restricted system commands enabled.
 **poster.tex
 (./poster.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.044 seconds
+luaotfload | main : initialization completed in 0.066 seconds
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -2427,63 +2427,40 @@ Package luatex.def Info: ./figures/Fotios-MinJeongKimBW.jpg  used on input line
 27.
 (luatex.def)             Requested size: 143.65472pt x 49.52455pt.
 ) (./tex/MultiMuons1_CDF.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmss/bx/n/12.54 CDF pub-lishes multi-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 ded-i-cated dimuon
+\T1/lmss/m/n/8.71 Teva-tron col-lider and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 duced in-side the
+Underfull \hbox (badness 6725) in paragraph at lines 4--35
+\T1/lmss/m/n/8.71 known QCD pro-cesses
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 cess-fully mod-eled
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 un-der-stand-ing of
- []
-
-
-Underfull \hbox (badness 6493) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 tor, trig-ger, and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 event re-con-struc-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 log-i-cal and kine-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 to long-standing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--35
-\T1/lmss/m/n/8.71 in-con-sis-ten-cies re-
- []
-
-) (./tex/IPPOG_v3.tex
+) (./tex/MultiMuons2_CDF.tex) (./tex/IPPOG_v3.tex
 <./figures/Fotis6-narrow.png, id=24, 1920.17375pt x 2038.61626pt>
 File: ./figures/Fotis6-narrow.png Graphic file (type png)
 <use ./figures/Fotis6-narrow.png>
 Package luatex.def Info: ./figures/Fotis6-narrow.png  used on input line 22.
-(luatex.def)             Requested size: 114.35579pt x 121.40959pt.
-) (./tex/MultiMuons2_CDF.tex) (./tex/HPlus2tb.tex)
-(./tex/HPlus2HW.tex))
+(luatex.def)             Requested size: 101.01958pt x 107.22493pt.
+)
+<./figures/nespressoWhatElse.png, id=25, 171.64125pt x 24.09pt>
+File: ./figures/nespressoWhatElse.png Graphic file (type png)
+<use ./figures/nespressoWhatElse.png>
+Package luatex.def Info: ./figures/nespressoWhatElse.png  used on input line 59.
+
+(luatex.def)             Requested size: 213.42413pt x 29.95396pt.
+ (./tex/NASA_v2.tex
+<./figures/NASA-small.png, id=26, 896.34875pt x 536.0025pt>
+File: ./figures/NASA-small.png Graphic file (type png)
+<use ./figures/NASA-small.png>
+Package luatex.def Info: ./figures/NASA-small.png  used on input line 14.
+(luatex.def)             Requested size: 126.2764pt x 75.50601pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 13--15
+ [] 
+ []
+
+) (./tex/HPlus2tb.tex) (./tex/HExtended_v6.tex) (./tex/HPlus2HW.tex))
 File: ./figures/Title.png Graphic file (type png)
 <use ./figures/Title.png>
 Package luatex.def Info: ./figures/Title.png  used on input line 85.
@@ -2496,7 +2473,8 @@ Missing character: There is no – (U+2013) in font ec-lmss9!
 <./figures/Title.png><./figures/Fotis7.png><./figures/TopQuark2BW.jpg><./figures
 /phd_title.png><./figures/restaurants.png><./figures/HiggsBosonDiscoveryBW.png><
 ./figures/car.png><./figures/thkata.png><./figures/Cyprus-in-your-heart.png><./f
-igures/Fotios-MinJeongKimBW.jpg><./figures/Fotis6-narrow.png>]
+igures/Fotios-MinJeongKimBW.jpg><./figures/Fotis6-narrow.png><./figures/nespress
+oWhatElse.png><./figures/NASA-small.png>]
 \tf@nav=\write9
 
 \openout9 = poster.nav
@@ -2521,38 +2499,41 @@ LaTeX Font Warning: Size substitutions with differences
 )
 
 Here is how much of LuaTeX's memory you used:
- 46591 strings out of 494291
- 156261,1373583 words of node,token memory allocated
+ 46631 strings out of 494291
+ 195338,1373583 words of node,token memory allocated
  3804 words of node memory still in use:
    60 hlist, 7 vlist, 6 rule, 6 disc, 14 local_par, 4 math, 134 glue, 16 kern, 3
 2 penalty, 96 glyph, 143 attribute, 67 glue_spec, 143 attribute_list, 3 write, 4
 0 pdf_literal, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nod
 es
-   avail lists: 1:2,2:4272,3:1294,4:174,5:837,6:65,7:15369,8:28,9:1027,10:23,11:
-1081
- 48860 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:4998,3:1525,4:190,5:903,6:71,7:16507,8:28,9:1153,10:23,11:
+1117
+ 48870 multiletter control sequences out of 65536+600000
  95 fonts using 10431279 bytes
  72i,23n,108p,1035b,1377s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/tex
 live/2019/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<</Users/sotiroulaconstantino
 u/Library/texlive/2019/texmf-var/fonts/pk/ljfour/public/ifsym/ifwea10.752pk>></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2019/texmf
--dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts
-/type1/public/lm/lmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
-ic/lm/lmss8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss9.
-pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/lm/lmsso9.pfb>
-Output written on poster.pdf (1 page, 6879739 bytes).
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/public/lm/lmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/l
+m/lmss8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss9.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/lm/lmsso9.pfb>
+Output written on poster.pdf (1 page, 7346578 bytes).
 
-PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 131072)
  21 words of extra memory for PDF output out of 10000 (max. 100000000)
 
