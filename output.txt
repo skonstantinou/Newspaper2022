@@ -3,7 +3,7 @@ This is LuaTeX, Version 1.10.0 (TeX Live 2019)
 (./poster.tex
 LaTeX2e <2018-12-01>
 
-luaotfload | main : initialization completed in 0.063 seconds
+luaotfload | main : initialization completed in 0.045 seconds
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -902,7 +902,7 @@ LaTeX Font Warning: Font shape `TU/txss/m/sc' undefined
 Overfull \hbox (5.0pt too wide) in paragraph at lines 17--20
  [] 
 ) (./tex/AdsRestaurants.tex) (./tex/HiggsBoson_LHC.tex
-Overfull \hbox (5.0pt too wide) in paragraph at lines 26--28
+Overfull \hbox (5.0pt too wide) in paragraph at lines 27--29
  [] 
 ) (./tex/FermilabToday_v3.tex) (./tex/MultiMuons1_CDF.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--35
@@ -980,12 +980,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 (see the transcript file for additional information)
- 3580 words of node memory still in use:
-   55 hlist, 7 vlist, 7 rule, 11 disc, 12 local_par, 2 math, 110 glue, 22 kern,
- 27 penalty, 104 glyph, 119 attribute, 67 glue_spec, 119 attribute_list, 3 writ
+ 3520 words of node memory still in use:
+   55 hlist, 7 vlist, 7 rule, 11 disc, 12 local_par, 2 math, 104 glue, 22 kern,
+ 25 penalty, 104 glyph, 116 attribute, 67 glue_spec, 116 attribute_list, 3 writ
 e, 40 pdf_literal, 12 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restor
 e nodes
-   avail lists: 1:3,2:4242,3:1291,4:168,5:763,6:63,7:15394,8:29,9:1037,10:22,11
+   avail lists: 1:3,2:4238,3:1290,4:168,5:763,6:63,7:15395,8:29,9:1038,10:22,11
 :1207
 </usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.
 otf>{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/kerkis/kmath.enc}{/usr/
@@ -1001,5 +1001,5 @@ s/Kerkis-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-s
 uper/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfont
 s/txsy.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.
 pfb>
-Output written on poster.pdf (1 page, 6727692 bytes).
+Output written on poster.pdf (1 page, 6727977 bytes).
 Transcript written on poster.log.
